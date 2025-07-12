@@ -13,7 +13,7 @@ I don't really plan on doing my own firmware for it though, i just plan on makin
 
 This was mostly a research day, since i needed to know about the original Flipper's specs and properties, so i didn't do much on the schematics.
 
-Time spent: 3h
+**Time spent: 3h**
 
 # July 12 
 God, how i hate and love EasyEDA at the same time, it has some weird controls and lack of keyboard shortcuts, like, what do you mean i have to go out of my way to the top toolbar to simply rotate a component instead of just pressing R? Anyways, i'm planning to do most stuff like the original Flipper, things like power, some of the MCU wiring, that sort of stuff.
