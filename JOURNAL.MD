@@ -25,3 +25,10 @@ God, how i hate and love EasyEDA at the same time, it has some weird controls an
 *Fuuuuuuuuuuuuuuuuuuuuck.* Depending on how this goes, i might aswell have to switch back to the original Flipper's hardware, since i discovered that the stock firmware is really weird with different components, even if they're slightly different. If i can't work around something with the stock firmware, i might just use Momentum Firmware, which is a lot more portable.
 I also probably won't replicate the power schematics and that sort of stuff, since it's probably overcomplicated for what i'm doing, and can probably be dumbed down a LOT.
 [MonkaS](https://docs.flipper.net/development/hardware/schematic#tAW55)
+
+**Time spent: 2h**
+
+# July 14
+The STM32WB55VG will HAVE to do, since there's LITERALLY NO AVAILABLE PINS besides the ones for module boards, look at this:
+
+<img src="https://media.discordapp.net/attachments/1385442305632112694/1394396898047299584/image.png?ex=6876a8cf&is=6875574f&hm=41b0e5fda9c368e3e9c25c36a8711c148d393df2d6227419506b7c3e35a4f4ff&=&format=webp&quality=lossless">
