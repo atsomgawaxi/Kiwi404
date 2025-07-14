@@ -31,4 +31,4 @@ I also probably won't replicate the power schematics and that sort of stuff, sin
 # July 14
 The STM32WB55VG will HAVE to do, since there's LITERALLY NO AVAILABLE PINS besides the ones for module boards, look at this:
 
-<img src="https://media.discordapp.net/attachments/1385442305632112694/1394396898047299584/image.png?ex=6876a8cf&is=6875574f&hm=41b0e5fda9c368e3e9c25c36a8711c148d393df2d6227419506b7c3e35a4f4ff&=&format=webp&quality=lossless">
+<img src="https://media.discordapp.net/attachments/1385442305632112694/1394396898047299584/image.png?ex=6876a8cf&is=6875574f&hm=41b0e5fda9c368e3e9c25c36a8711c148d393df2d6227419506b7c3e35a4f4ff&=&format=webp&quality=lossless" width="300" height="300">
