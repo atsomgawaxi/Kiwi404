@@ -18,3 +18,10 @@ This was mostly a research day, since i needed to know about the original Flippe
 # July 12 
 God, how i hate and love EasyEDA at the same time, it has some weird controls and lack of keyboard shortcuts, like, what do you mean i have to go out of my way to the top toolbar to simply rotate a component instead of just pressing R? Anyways, i'm planning to do most stuff like the original Flipper, things like power, some of the MCU wiring, that sort of stuff.
 [Here's my current reference.](https://docs.flipper.net/development/hardware/schematic)
+
+**Time spent: 2h**
+
+# July 13
+*Fuuuuuuuuuuuuuuuuuuuuck.* Depending on how this goes, i might aswell have to switch back to the original Flipper's hardware, since i discovered that the stock firmware is really weird with different components, even if they're slightly different. If i can't work around something with the stock firmware, i might just use Momentum Firmware, which is a lot more portable.
+I also probably won't replicate the power schematics and that sort of stuff, since it's probably overcomplicated for what i'm doing, and can probably be dumbed down a LOT.
+[MonkaS](https://docs.flipper.net/development/hardware/schematic#tAW55)
