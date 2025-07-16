@@ -33,3 +33,10 @@ The STM32WB55VG will HAVE to do, since there's LITERALLY NO AVAILABLE PINS besid
 
 <img src="https://media.discordapp.net/attachments/1385442305632112694/1394396898047299584/image.png?ex=6876a8cf&is=6875574f&hm=41b0e5fda9c368e3e9c25c36a8711c148d393df2d6227419506b7c3e35a4f4ff&=&format=webp&quality=lossless" width="300" height="300">
 Plus, i also can't directly replicate anything because of Highway's rules, so this will be a lot harder. On the power schematics, i probably will only reuse it's fuel gauge for firmware reasons.
+
+**Time spent: 1h 30m**
+
+# July 16
+I've decided to just not worry too much about firmware and software incompatibilities, and not getting too stuck to the original schematics.
+I'll just try to do my own thing from now on, i can fix firmware issues later, i just have to keep in mind the components i need for the basic functions.
+(Also took a break for one day, jesus, i'm burnt out.)
