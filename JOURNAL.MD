@@ -41,5 +41,9 @@ I've decided to just not worry too much about firmware and software incompatibil
 I'll just try to do my own thing from now on, i can fix firmware issues later, i just have to keep in mind the components i need for the basic functions.
 (Also took a break for one day, jesus, i'm burnt out.)
 
+**Time spent: (Didn't track time for this day, but i assume i just messed with it for like ~30m)**
+
 # July 23
 Took a big break to have enough energy to end this quickly since the deadline is close. I've decided to just forget the original stuff as a whole for now. Only thing i will actually need from them are the basic components. I'll also probably have to learn how to properly design PCB antennas, since i can't just SMA antenna my way out of RFID and NFC. I'm also looking at similar projects to get inspiration, like the [FCFZ](https://www.hackster.io/zst123/fcfz-fully-compatible-flipper-zero-e686ba), this is actually a great project to base myself off of. Since it actually made me less worried about incompatibilities since most similar chips work the same, the firmware just works by using the chip ID to identify if it's a match or not, if it happens to not be a match, you can just change the source firmware to think it is a match. Another issue is that some of the modules for basic features on the Flipper are actually NRND (obsolete), this includes the RF switches, which is a BIG problem, so i'll need to find a replacement quick. Without it, i'll only be able to use the 433mHz band.
+
+**Time spent: 5h**
